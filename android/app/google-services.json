@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198176828773",
+    "project_id": "chatroom-fe305",
+    "storage_bucket": "chatroom-fe305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198176828773:android:8c11d145b7557fd24dc58c",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198176828773-kerjgnfko1v5hmstt31as6roemq7m1f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNoMML64iGVl6vYRR8GewFlOKdrns26jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198176828773-kerjgnfko1v5hmstt31as6roemq7m1f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
